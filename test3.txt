@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-hello everyone ss fkhsk
-=======
-hello everyone
->>>>>>> parent of 066f748... added test3
+hello everyone ss
